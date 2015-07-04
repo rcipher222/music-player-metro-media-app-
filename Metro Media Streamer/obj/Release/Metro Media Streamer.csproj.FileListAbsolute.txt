@@ -1,0 +1,366 @@
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml.intermediate
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles.intermediate
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles.intermediate
+C:\Users\AnuragJ\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles.intermediate
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml.intermediate
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles.intermediate
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles.intermediate
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles.intermediate
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+F:\microsoft workshop\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+H:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+H:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+H:\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+H:\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+H:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml.intermediate
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles.intermediate
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles.intermediate
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles.intermediate
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+H:\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+J:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+J:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+J:\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+J:\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+J:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+J:\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+I:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+I:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+I:\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+I:\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+I:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+I:\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+C:\Users\ab\Desktop\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml.intermediate
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles.intermediate
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles.intermediate
+E:\Users\dell\Documents\docs\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles.intermediate
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+D:\Users\dell\Documents\docs\proj\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+C:\Users\R!$#AB#\Documents\Visual Studio 2012\Projects\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt
+D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe
+D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb
+D:\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri
+D:\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml
+D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.build.appxrecipe
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.i.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\XamlTypeInfo.g.cs
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\App.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Auto Viewer.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Self Viewer.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Media.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\reg.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Common\StandardStyles.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\MainPage.xaml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.exe
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\Metro Media Streamer.pdb
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\priconfig.xml
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\layout.resfiles
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\resources.resfiles
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\pri.resfiles
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\LanguageQualifiers.txt
+D:\Metro Media Streamer\Metro Media Streamer\obj\Release\ProjectArchitectures.txt

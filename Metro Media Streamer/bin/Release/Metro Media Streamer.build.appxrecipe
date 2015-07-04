@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RISHABH</Machine>
+    <WindowsUser>R!%24#AB#</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.exe">
+      <PackagePath>Metro Media Streamer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Metro Media Streamer.pdb">
+      <PackagePath>Metro Media Streamer.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\-Music-music-31267093-728-400.png">
+      <PackagePath>-Music-music-31267093-728-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\52.jpg">
+      <PackagePath>52.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\9.jpg">
+      <PackagePath>9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\au_620.jpg">
+      <PackagePath>au_620.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\DSD_3953-620x300.jpg">
+      <PackagePath>DSD_3953-620x300.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\geekinside.jpg">
+      <PackagePath>geekinside.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\n,n.jpg">
+      <PackagePath>n,n.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\YD998M6IQGU1E.jpg">
+      <PackagePath>YD998M6IQGU1E.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\c.jpg">
+      <PackagePath>c.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Auto Viewer.xaml">
+      <PackagePath>Auto Viewer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Self Viewer.xaml">
+      <PackagePath>Self Viewer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Media.xaml">
+      <PackagePath>Media.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\reg.xaml">
+      <PackagePath>reg.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Metro Media Streamer\Metro Media Streamer\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
